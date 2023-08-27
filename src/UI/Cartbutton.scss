@@ -1,0 +1,39 @@
+.position {
+  position: relative;
+  bottom: 2px;
+}
+
+.cartbutton {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(73, 73, 167);
+  border: 1px solid rgba(255, 255, 255,0.6);
+  color: white;
+  width: 130px;
+  height: 50px;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  @media(max-width:500px){
+    width: 110px;
+  }
+  &:hover, &:focus-within{
+    box-shadow: 0 0 10px 2.5px white;
+   background-color: rgb(81, 81, 138);
+
+}
+  .cartbutton_cart {
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+  .cartbutton_counter {
+    background-color: rgb(28, 28, 136);
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: 1px solid rgb(19, 19, 65);
+    border-radius: 50%;
+  }
+}

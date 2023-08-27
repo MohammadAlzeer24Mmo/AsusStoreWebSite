@@ -1,0 +1,115 @@
+.search-container{
+    display: grid;
+    grid-template: {
+    columns: 2% 35% 56% 2% ;
+    rows:  auto;
+    areas:  ". search-options search-result ."  
+     ;
+  }
+  @media(max-width: 1250px){
+    grid-template-rows: 300px;
+    grid-template-columns: 2% 40% 56% 2% ;
+    grid-template-areas:  ". search-options search-options ."  
+    ". search-result search-result ." 
+  }
+  @media(max-width: 800px){
+       grid-template-columns: 2% 40% 56% 2% ;
+    grid-template-areas:  "search-options search-options search-options search-options"  
+    ". search-result search-result ." 
+  }
+  @media(max-width: 680px){
+    grid-template-rows: 400px;
+    grid-template-areas:  "search-options search-options search-options search-options"  
+    "search-result  search-result search-result search-result" 
+}
+// @media(max-width: 550px){
+//     grid-template-rows: 540px;
+//     grid-template-areas:  "search-options search-options search-options search-options"  
+//     "search-result  search-result search-result search-result" 
+// }
+  
+}
+
+.search-area{
+    grid-area: search-options;
+    margin-inline:auto;
+    margin-bottom: 4rem;
+    @media(max-width: 1250px){
+        // margin:unset ;
+        width: 80%;
+      }
+      @media(max-width: 1060px){
+        width: 100%;
+        height: 300px;
+      }
+      
+}
+
+/////1
+
+.search{
+    width: 30%;
+    height: 80px;
+}
+.result_image{
+    margin: auto;
+    width: 50%;
+    >div{display: flex;justify-content: center; flex-wrap: wrap;}
+    .result_image{
+        >div{
+            width: 130px;
+            height: auto;
+            display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        margin-bottom: 30px;
+        }
+    } 
+    h2{
+        font-size: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+    }
+
+
+    /////2
+    
+    .search2{
+        width: 30%;
+        height: 80px;
+    }
+    .result_image2{
+        margin: auto;
+        >div{
+            display: flex;
+            justify-content: flex-start;
+             flex-wrap: wrap;
+            @media(max-width: 1250px){
+                justify-content: center;
+            }
+            @media(max-width: 643px){
+                flex-wrap: nowrap;
+            }
+            @media(max-width:643px){
+                flex-wrap: wrap;
+               }
+        }
+        h2{
+            font-size: 2rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        }
+
+        .result2{
+            grid-area: search-result;
+            width: 100%;
+            h2{
+                margin: auto;
+                text-align: center;
+                color: rgb(44, 44, 187);
+                border: 1px solid rgba(84, 84, 206, 0.5);
+          box-shadow: 0 0 2px 2px rgba(84, 84, 206, 0.5);
+            }
+        }

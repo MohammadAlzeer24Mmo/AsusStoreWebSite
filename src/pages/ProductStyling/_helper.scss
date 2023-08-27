@@ -1,0 +1,43 @@
+$main-color: blue;
+$second-color: red;
+$third-color: rgb(76, 76, 179);
+
+@mixin available-colors() {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: 1px solid black;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+@mixin main-grid() {
+  display: grid;
+  grid-template: {
+    columns: 3% 40% 12% 40%;
+    rows: 280px 860px 660px 200px;
+    areas:  ". images images images"
+      ". details details details" ". description description description "
+      ". features features features " ". related related related ";
+  }
+  @media((min-width: 360px) and (max-width: 500px)){
+    grid-template-rows: 190px 860px 660px 200px;
+  }
+    @media(min-width: 470px){
+    grid-template-rows: 220px 800px 660px 200px;
+  }
+  // @media(min-width: 770px){
+  //   grid-template-rows: 220px 785px 660px 200px;
+  // }
+}
+// " navtest navtest navtest navtest "
+@mixin media-grid() {
+  grid-template: {
+    columns: 3% 40% 12% 40% 5%;
+    rows: 827px 720px;
+    areas:  ". images details details ."
+      ". description description description ." ". features features features . "
+      ". related related related . ";
+  }
+}
+// " navtest navtest navtest navtest navtest "

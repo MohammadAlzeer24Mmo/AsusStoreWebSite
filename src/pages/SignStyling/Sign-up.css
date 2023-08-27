@@ -1,0 +1,103 @@
+.sign-up-container {
+  background: linear-gradient(to top, rgba(42, 42, 44, 0.6) 100%, transparent), url("../../assets/images/background4.jpg") left 0% top 60%/cover no-repeat border-box;
+  height: 730px;
+}
+
+.sign-up {
+  position: relative;
+  top: 50px;
+  margin-inline: auto;
+  width: 400px;
+  height: 86%;
+  background-color: rgba(70, 70, 146, 0.7);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 0 2px 2px rgb(140, 140, 168);
+  border-radius: 30px;
+  padding: 1rem 0 1rem 0;
+  color: white;
+}
+@media (max-width: 580px) {
+  .sign-up {
+    width: 350px;
+    max-height: 700px;
+  }
+}
+@media (max-width: 460px) {
+  .sign-up {
+    width: 330px;
+  }
+}
+.sign-up .signUp-register {
+  color: rgb(148, 138, 209);
+  padding: 1rem;
+  border-radius: 20px;
+  box-shadow: 0 0 2px 2px rgba(53, 53, 128, 0.6);
+  font-size: 2rem;
+  margin: 1.2rem 0 1.3rem 0;
+  letter-spacing: 2px;
+}
+.sign-up input {
+  width: 18rem;
+  height: 2rem;
+  border: none;
+  border-bottom: 2px solid rgb(91, 91, 199);
+  text-align: center;
+  background-color: transparent;
+  margin: 1rem 0 0.8rem 0;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.sign-up input:focus {
+  outline: none;
+}
+.sign-up input::-moz-placeholder {
+  color: rgb(175, 167, 223);
+}
+.sign-up input::placeholder {
+  color: rgb(175, 167, 223);
+}
+.sign-up button {
+  width: 70%;
+  height: 2.5rem;
+  border-radius: 50px;
+  margin-top: 2rem;
+  padding: 0.2rem;
+  background-color: rgb(35, 35, 131);
+  color: white;
+  cursor: pointer;
+  border-color: rgb(79, 70, 199);
+}
+.sign-up button:hover {
+  box-shadow: 0 0 2px 2px rgb(79, 70, 199);
+}
+.sign-up button:disabled, .sign-up buttonbutton:disabled:hover, .sign-up buttonbutton:disabled:active {
+  background-color: rgba(30, 30, 104, 0.4);
+  color: rgba(255, 255, 255, 0.5);
+  cursor: not-allowed;
+}
+.sign-up .sign-up_agree {
+  color: rgb(207, 204, 223);
+  margin-top: 2.2rem;
+}
+@media (max-width: 460px) {
+  .sign-up .sign-up_agree {
+    text-align: center;
+    margin-top: 0.8rem;
+  }
+}
+.sign-up .invalid {
+  border-color: rgba(185, 55, 55, 0.7);
+}
+.sign-up p {
+  color: rgb(228, 91, 91);
+  word-spacing: 2px;
+  font-size: 1.1rem;
+  font-family: cursive;
+}
+.sign-up .ready {
+  color: rgb(77, 180, 77) !important;
+}

@@ -1,0 +1,154 @@
+.search-options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: auto;
+}
+@media (max-width: 1250px) {
+  .search-options {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 1060px) {
+  .search-options {
+    height: 100%;
+  }
+}
+@media (max-width: 680px) {
+  .search-options {
+    flex-direction: column;
+    height: auto;
+  }
+}
+.search-options .search-options_catagories {
+  width: 400px;
+  min-width: 400px;
+  height: 237px;
+  border: 1px solid rgb(120, 120, 146);
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba(84, 84, 206, 0.5);
+  box-shadow: 0 0 2px 2px rgba(84, 84, 206, 0.5);
+  border-radius: 10px;
+  padding: 20px 25px 0 20px;
+  margin-bottom: 1rem;
+}
+@media (max-width: 1250px) {
+  .search-options .search-options_catagories {
+    margin-bottom: 0;
+    margin-right: 2rem;
+    width: 40%;
+    min-width: none;
+  }
+}
+@media (max-width: 1060px) {
+  .search-options .search-options_catagories {
+    min-width: 300px;
+    width: 40%;
+    min-width: none;
+  }
+}
+@media (max-width: 800px) {
+  .search-options .search-options_catagories {
+    width: 48%;
+    margin-right: 0.5rem;
+  }
+}
+@media (max-width: 680px) {
+  .search-options .search-options_catagories {
+    margin-bottom: 1rem;
+    min-width: 100px;
+    flex-direction: row;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-content: flex-start;
+    width: 75%;
+    height: 130px;
+  }
+  .search-options .search-options_catagories div:nth-child(1) {
+    flex-basis: 100%;
+    height: 20px;
+    margin-bottom: 0.8rem;
+  }
+}
+@media (max-width: 550px) {
+  .search-options .search-options_catagories {
+    align-self: flex-start;
+    flex-direction: row;
+    margin-left: 2rem;
+  }
+}
+.search-options .search-options_catagories input {
+  border-radius: 80px;
+}
+
+.search-options_prices {
+  width: 40%;
+  height: 237px;
+  min-width: 320px;
+  min-height: 237px;
+}
+@media (max-width: 800px) {
+  .search-options_prices {
+    width: 48%;
+  }
+}
+@media (max-width: 680px) {
+  .search-options_prices {
+    width: 86%;
+    min-height: 242px;
+  }
+}
+
+.inputs input {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(174, 186, 209, 0.3);
+  border: 1px solid rgba(174, 186, 209, 0.8);
+  box-shadow: 0 0 4px 2px rgb(174, 186, 209);
+  height: 40px;
+  width: 15%;
+}
+
+.slidecontainer {
+  width: 100%; /* Width of the outside container */
+}
+
+/* The slider itself */
+.slider {
+  -webkit-appearance: none; /* Override default CSS styles */
+  -moz-appearance: none;
+       appearance: none;
+  width: 100%; /* Full-width */
+  height: 25px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */ /* 0.2 seconds transition on hover */
+  transition: opacity 0.2s;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #04AA6D; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #04AA6D; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}

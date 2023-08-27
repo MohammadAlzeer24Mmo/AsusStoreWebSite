@@ -1,0 +1,26 @@
+@mixin mobile-grid() {
+    grid-template: {
+        columns: 15% 70% 15%;
+        rows: 300px 260px 250px 320px;
+        areas: ". part1 ." ". part2 ." ". part3 ." ". part4 ." ". rights .";
+      }
+    }
+    
+@mixin  footer-second-grid(){
+    grid-template: {
+        columns: 5% 40% 40% 5%;
+        rows: 330px 300px;
+        areas: ". part1 part2 ."
+               ". part3 part4 ."   
+               ". rights rights .";    
+      }
+    }
+@mixin footer-third-grid() {
+    grid-template: {
+        columns: 5% 20% 20% 20% 30% 5%;
+        rows: 300px;
+        areas: ". part1 part2 part3 part4 ." ". rights rights rights . .";
+      }
+}
+
+

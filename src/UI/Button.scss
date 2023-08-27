@@ -1,0 +1,20 @@
+.cart-buttons{
+    height: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    button{
+        background-color: rgb(102, 102, 180);
+        padding: 0.5rem;
+        border-radius: 1rem;
+        font-weight: bold;
+        color: white;
+        border: none;
+        letter-spacing: 1px;
+        cursor: pointer;
+
+      }
+      
+
+
+}

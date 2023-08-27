@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.comp {
+  grid-area: company;
+}
+
+.recommendedd {
+  grid-area: recommended;
+}
+
+.popular-grid {
+  grid-area: popular;
+}
+
+.more-grid {
+  grid-area: more;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: rgba(153, 172, 207, 0.6);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 5% 90% 5%;
+  grid-template-rows: 240px 770px 230px 380px;
+  grid-template-areas: "recommended recommended recommended" "popular popular popular" "more more more";
+}

@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  @mixin grid-body() {
+    display: grid;
+    grid-template: {
+    columns:  5% 90% 5% ;
+    rows:  240px 770px 230px 380px;
+    areas:  "recommended recommended recommended" "popular popular popular" 
+    "more more more" ;
+  }
+  // "nav nav nav" 
+  // "company company company"
+  // @media(min-width: 530px){
+  //   grid-template-rows:  240px 770px 130px 380px ;
+  // }
+
+}
+
+// .navv{
+// grid-area: nav;
+// }
+
+.comp{
+  grid-area: company;
+}
+
+.recommendedd{
+
+    grid-area: recommended;
+}
+
+.popular-grid{
+  grid-area: popular ;
+}
+
+.more-grid{
+  grid-area: more;
+}
+
+
+
