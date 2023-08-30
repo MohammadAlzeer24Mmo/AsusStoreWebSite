@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AsusStoreWebSite/static/css/main.53363f3f.css",
+    "main.css": "/AsusStoreWebSite/static/css/main.192d9c87.css",
     "main.js": "/AsusStoreWebSite/static/js/main.bfd5fc86.js",
     "static/media/ASUS ZenBook Pro Duo - The laptop of tomorrow - ASUS~1.mp4": "/AsusStoreWebSite/static/media/ASUS ZenBook Pro Duo - The laptop of tomorrow - ASUS~1.46fb9444a701ac5b7da1.mp4",
     "static/media/Mechanized endurance. Battlefield brilliance. - 2022 ASUS TUF Gaming F15~2.mp4": "/AsusStoreWebSite/static/media/Mechanized endurance. Battlefield brilliance. - 2022 ASUS TUF Gaming F15~2.f55c3d55802e16fbd21c.mp4",
@@ -31,10 +31,10 @@
     "static/media/Asus-Zenbook-pro-Series.jpg": "/AsusStoreWebSite/static/media/Asus-Zenbook-pro-Series.7eee13ce9c2668874a5d.jpg",
     "static/media/displays-960x505.jpg": "/AsusStoreWebSite/static/media/displays-960x505.218cada69091e2d95271.jpg",
     "static/media/RogNice.jpg": "/AsusStoreWebSite/static/media/RogNice.d9088496a536585f9e10.jpg",
-    "static/media/AsusCover.webp": "/AsusStoreWebSite/static/media/AsusCover.cc5fc58aa0d5183e8d9c.webp",
     "static/media/91P7uBC9DML._AC_SX679_.jpg": "/AsusStoreWebSite/static/media/91P7uBC9DML._AC_SX679_.bfa150ae93cf709731a4.jpg",
     "static/media/rog strix impact.webp": "/AsusStoreWebSite/static/media/rog strix impact.ae125770d3e4df14b8ae.webp",
     "static/media/Tuf Gaming BP2700T.jpg": "/AsusStoreWebSite/static/media/Tuf Gaming BP2700T.bd95292da60c7081f2cc.jpg",
+    "static/media/AsusCover.jpg": "/AsusStoreWebSite/static/media/AsusCover.3668d3db94b2348bdac5.jpg",
     "static/media/asus-proart-PA348CGV-5.webp": "/AsusStoreWebSite/static/media/asus-proart-PA348CGV-5.f7b6389c7accd6b1d7b3.webp",
     "static/media/81tAI6HxHDL._AC_SX679_.jpg": "/AsusStoreWebSite/static/media/81tAI6HxHDL._AC_SX679_.31cf630bd0b1cad7a45d.jpg",
     "static/media/asus-rog-delta-s-gaming-headset-mobile-v4.jpg": "/AsusStoreWebSite/static/media/asus-rog-delta-s-gaming-headset-mobile-v4.66031db1a5404420603b.jpg",
@@ -66,11 +66,11 @@
     "static/media/Zenbook.jfif": "/AsusStoreWebSite/static/media/Zenbook.07c792311870c0501512.jfif",
     "static/media/quote-left-icon.svg": "/AsusStoreWebSite/static/media/quote-left-icon.b706cfedc10104a5fbf128af54591496.svg",
     "index.html": "/AsusStoreWebSite/index.html",
-    "main.53363f3f.css.map": "/AsusStoreWebSite/static/css/main.53363f3f.css.map",
+    "main.192d9c87.css.map": "/AsusStoreWebSite/static/css/main.192d9c87.css.map",
     "main.bfd5fc86.js.map": "/AsusStoreWebSite/static/js/main.bfd5fc86.js.map"
   },
   "entrypoints": [
-    "static/css/main.53363f3f.css",
+    "static/css/main.192d9c87.css",
     "static/js/main.bfd5fc86.js"
   ]
 }
