@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkecommerce=self.webpackChunkecommerce||[]).push([[390],{3390:function(e,n,c){c.r(n),c.d(n,{default:function(){return m}});var r=c(2791),a=c(184),m=function(){return(0,a.jsx)(r.Fragment,{children:(0,a.jsx)("h1",{className:"myname",children:"Mohammad Alzeer"})})}}}]);
-//# sourceMappingURL=390.2ca51dba.chunk.js.map
