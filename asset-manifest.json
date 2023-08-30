@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AsusStoreWebSite/static/css/main.ac561be9.css",
+    "main.css": "/AsusStoreWebSite/static/css/main.f160267d.css",
     "main.js": "/AsusStoreWebSite/static/js/main.86fc2e15.js",
     "static/media/ASUS ZenBook Pro Duo - The laptop of tomorrow - ASUS~1.mp4": "/AsusStoreWebSite/static/media/ASUS ZenBook Pro Duo - The laptop of tomorrow - ASUS~1.46fb9444a701ac5b7da1.mp4",
     "static/media/Mechanized endurance. Battlefield brilliance. - 2022 ASUS TUF Gaming F15~2.mp4": "/AsusStoreWebSite/static/media/Mechanized endurance. Battlefield brilliance. - 2022 ASUS TUF Gaming F15~2.f55c3d55802e16fbd21c.mp4",
@@ -66,11 +66,11 @@
     "static/media/Zenbook.jfif": "/AsusStoreWebSite/static/media/Zenbook.07c792311870c0501512.jfif",
     "static/media/quote-left-icon.svg": "/AsusStoreWebSite/static/media/quote-left-icon.b706cfedc10104a5fbf128af54591496.svg",
     "index.html": "/AsusStoreWebSite/index.html",
-    "main.ac561be9.css.map": "/AsusStoreWebSite/static/css/main.ac561be9.css.map",
+    "main.f160267d.css.map": "/AsusStoreWebSite/static/css/main.f160267d.css.map",
     "main.86fc2e15.js.map": "/AsusStoreWebSite/static/js/main.86fc2e15.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac561be9.css",
+    "static/css/main.f160267d.css",
     "static/js/main.86fc2e15.js"
   ]
 }
