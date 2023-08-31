@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/AsusStoreWebSite/static/css/main.0c373f2a.css",
-    "main.js": "/AsusStoreWebSite/static/js/main.416bb09b.js",
+    "main.css": "/AsusStoreWebSite/static/css/main.9ae03b34.css",
+    "main.js": "/AsusStoreWebSite/static/js/main.c810925c.js",
+    "static/css/153.2c3dcf8c.chunk.css": "/AsusStoreWebSite/static/css/153.2c3dcf8c.chunk.css",
+    "static/js/153.4bed086e.chunk.js": "/AsusStoreWebSite/static/js/153.4bed086e.chunk.js",
+    "static/js/828.b1dcbaed.chunk.js": "/AsusStoreWebSite/static/js/828.b1dcbaed.chunk.js",
     "static/media/ASUS ZenBook Pro Duo - The laptop of tomorrow - ASUS~1.mp4": "/AsusStoreWebSite/static/media/ASUS ZenBook Pro Duo - The laptop of tomorrow - ASUS~1.46fb9444a701ac5b7da1.mp4",
     "static/media/Mechanized endurance. Battlefield brilliance. - 2022 ASUS TUF Gaming F15~2.mp4": "/AsusStoreWebSite/static/media/Mechanized endurance. Battlefield brilliance. - 2022 ASUS TUF Gaming F15~2.f55c3d55802e16fbd21c.mp4",
     "static/media/Rog Ranger BP3703~1.jpg": "/AsusStoreWebSite/static/media/Rog Ranger BP3703~1.c11bb3447cf25bb25f9e.jpg",
@@ -62,11 +65,14 @@
     "static/media/pngtree-user-vector-avatar-png-image_1541962.jpg": "/AsusStoreWebSite/static/media/pngtree-user-vector-avatar-png-image_1541962.5d9ea6317191df85e1b9.jpg",
     "static/media/quote-left-icon.svg": "/AsusStoreWebSite/static/media/quote-left-icon.b706cfedc10104a5fbf128af54591496.svg",
     "index.html": "/AsusStoreWebSite/index.html",
-    "main.0c373f2a.css.map": "/AsusStoreWebSite/static/css/main.0c373f2a.css.map",
-    "main.416bb09b.js.map": "/AsusStoreWebSite/static/js/main.416bb09b.js.map"
+    "main.9ae03b34.css.map": "/AsusStoreWebSite/static/css/main.9ae03b34.css.map",
+    "main.c810925c.js.map": "/AsusStoreWebSite/static/js/main.c810925c.js.map",
+    "153.2c3dcf8c.chunk.css.map": "/AsusStoreWebSite/static/css/153.2c3dcf8c.chunk.css.map",
+    "153.4bed086e.chunk.js.map": "/AsusStoreWebSite/static/js/153.4bed086e.chunk.js.map",
+    "828.b1dcbaed.chunk.js.map": "/AsusStoreWebSite/static/js/828.b1dcbaed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c373f2a.css",
-    "static/js/main.416bb09b.js"
+    "static/css/main.9ae03b34.css",
+    "static/js/main.c810925c.js"
   ]
 }
