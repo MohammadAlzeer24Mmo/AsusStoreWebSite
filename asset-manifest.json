@@ -1,20 +1,12 @@
 {
   "files": {
-    "main.css": "/AsusStoreWebSite/static/css/main.67c74e07.css",
-    "main.js": "/AsusStoreWebSite/static/js/main.2d661f47.js",
-    "static/css/153.2c3dcf8c.chunk.css": "/AsusStoreWebSite/static/css/153.2c3dcf8c.chunk.css",
-    "static/js/153.4bed086e.chunk.js": "/AsusStoreWebSite/static/js/153.4bed086e.chunk.js",
-    "static/css/666.7f124c42.chunk.css": "/AsusStoreWebSite/static/css/666.7f124c42.chunk.css",
-    "static/js/666.6ec7a06b.chunk.js": "/AsusStoreWebSite/static/js/666.6ec7a06b.chunk.js",
-    "static/css/554.f94b4052.chunk.css": "/AsusStoreWebSite/static/css/554.f94b4052.chunk.css",
-    "static/js/554.679d63b4.chunk.js": "/AsusStoreWebSite/static/js/554.679d63b4.chunk.js",
-    "static/css/390.2757567e.chunk.css": "/AsusStoreWebSite/static/css/390.2757567e.chunk.css",
-    "static/js/390.2ca51dba.chunk.js": "/AsusStoreWebSite/static/js/390.2ca51dba.chunk.js",
-    "static/js/828.b1dcbaed.chunk.js": "/AsusStoreWebSite/static/js/828.b1dcbaed.chunk.js",
+    "main.css": "/AsusStoreWebSite/static/css/main.0c373f2a.css",
+    "main.js": "/AsusStoreWebSite/static/js/main.416bb09b.js",
     "static/media/ASUS ZenBook Pro Duo - The laptop of tomorrow - ASUS~1.mp4": "/AsusStoreWebSite/static/media/ASUS ZenBook Pro Duo - The laptop of tomorrow - ASUS~1.46fb9444a701ac5b7da1.mp4",
     "static/media/Mechanized endurance. Battlefield brilliance. - 2022 ASUS TUF Gaming F15~2.mp4": "/AsusStoreWebSite/static/media/Mechanized endurance. Battlefield brilliance. - 2022 ASUS TUF Gaming F15~2.f55c3d55802e16fbd21c.mp4",
     "static/media/Rog Ranger BP3703~1.jpg": "/AsusStoreWebSite/static/media/Rog Ranger BP3703~1.c11bb3447cf25bb25f9e.jpg",
     "static/media/photo2~1.jpg": "/AsusStoreWebSite/static/media/photo2~1.bfd9cca51bce399e2814.jpg",
+    "static/media/AsusCover.jpg": "/AsusStoreWebSite/static/media/AsusCover.c585c812c569983b6a70.jpg",
     "static/media/ROG Swift OLED PG42UQ, PG48UQ_R1~1.jpg": "/AsusStoreWebSite/static/media/ROG Swift OLED PG42UQ, PG48UQ_R1~1.fc5fa7b03fd78712090d.jpg",
     "static/media/asus_ux9702aa_xb79ft_17_3_zenbook_17_fold_1723069~1.jpg": "/AsusStoreWebSite/static/media/asus_ux9702aa_xb79ft_17_3_zenbook_17_fold_1723069~1.8ea09b2e2ee18de73f22.jpg",
     "static/media/background4.jpg": "/AsusStoreWebSite/static/media/background4.9d770fffd7368919e7e5.jpg",
@@ -33,7 +25,6 @@
     "static/media/ROG~1.jpg": "/AsusStoreWebSite/static/media/ROG~1.9970d795b2e317ceee30.jpg",
     "static/media/Tuf Gaming BP2700T.jpg": "/AsusStoreWebSite/static/media/Tuf Gaming BP2700T.bd95292da60c7081f2cc.jpg",
     "static/media/asus-proart-PA348CGV-5.jpg": "/AsusStoreWebSite/static/media/asus-proart-PA348CGV-5.f116189ef55860f5830a.jpg",
-    "static/media/AsusCover.jpg": "/AsusStoreWebSite/static/media/AsusCover.3668d3db94b2348bdac5.jpg",
     "static/media/asus-rog-cetra-core~1.jpg": "/AsusStoreWebSite/static/media/asus-rog-cetra-core~1.982a4776f3d5a70997cd.jpg",
     "static/media/ASUS-OLED.jpg": "/AsusStoreWebSite/static/media/ASUS-OLED.0286c66799867c80eb00.jpg",
     "static/media/Asus-Zenbook-pro-Series~1.jpg": "/AsusStoreWebSite/static/media/Asus-Zenbook-pro-Series~1.7eeb615f41f5767945ff.jpg",
@@ -71,20 +62,11 @@
     "static/media/pngtree-user-vector-avatar-png-image_1541962.jpg": "/AsusStoreWebSite/static/media/pngtree-user-vector-avatar-png-image_1541962.5d9ea6317191df85e1b9.jpg",
     "static/media/quote-left-icon.svg": "/AsusStoreWebSite/static/media/quote-left-icon.b706cfedc10104a5fbf128af54591496.svg",
     "index.html": "/AsusStoreWebSite/index.html",
-    "main.67c74e07.css.map": "/AsusStoreWebSite/static/css/main.67c74e07.css.map",
-    "main.2d661f47.js.map": "/AsusStoreWebSite/static/js/main.2d661f47.js.map",
-    "153.2c3dcf8c.chunk.css.map": "/AsusStoreWebSite/static/css/153.2c3dcf8c.chunk.css.map",
-    "153.4bed086e.chunk.js.map": "/AsusStoreWebSite/static/js/153.4bed086e.chunk.js.map",
-    "666.7f124c42.chunk.css.map": "/AsusStoreWebSite/static/css/666.7f124c42.chunk.css.map",
-    "666.6ec7a06b.chunk.js.map": "/AsusStoreWebSite/static/js/666.6ec7a06b.chunk.js.map",
-    "554.f94b4052.chunk.css.map": "/AsusStoreWebSite/static/css/554.f94b4052.chunk.css.map",
-    "554.679d63b4.chunk.js.map": "/AsusStoreWebSite/static/js/554.679d63b4.chunk.js.map",
-    "390.2757567e.chunk.css.map": "/AsusStoreWebSite/static/css/390.2757567e.chunk.css.map",
-    "390.2ca51dba.chunk.js.map": "/AsusStoreWebSite/static/js/390.2ca51dba.chunk.js.map",
-    "828.b1dcbaed.chunk.js.map": "/AsusStoreWebSite/static/js/828.b1dcbaed.chunk.js.map"
+    "main.0c373f2a.css.map": "/AsusStoreWebSite/static/css/main.0c373f2a.css.map",
+    "main.416bb09b.js.map": "/AsusStoreWebSite/static/js/main.416bb09b.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c74e07.css",
-    "static/js/main.2d661f47.js"
+    "static/css/main.0c373f2a.css",
+    "static/js/main.416bb09b.js"
   ]
 }
