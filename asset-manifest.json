@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AsusStoreWebSite/static/css/main.9ae03b34.css",
-    "main.js": "/AsusStoreWebSite/static/js/main.492a2e47.js",
+    "main.js": "/AsusStoreWebSite/static/js/main.53666fd8.js",
     "static/css/153.2c3dcf8c.chunk.css": "/AsusStoreWebSite/static/css/153.2c3dcf8c.chunk.css",
     "static/js/153.4bed086e.chunk.js": "/AsusStoreWebSite/static/js/153.4bed086e.chunk.js",
     "static/js/828.b1dcbaed.chunk.js": "/AsusStoreWebSite/static/js/828.b1dcbaed.chunk.js",
@@ -66,13 +66,13 @@
     "static/media/quote-left-icon.svg": "/AsusStoreWebSite/static/media/quote-left-icon.b706cfedc10104a5fbf128af54591496.svg",
     "index.html": "/AsusStoreWebSite/index.html",
     "main.9ae03b34.css.map": "/AsusStoreWebSite/static/css/main.9ae03b34.css.map",
-    "main.492a2e47.js.map": "/AsusStoreWebSite/static/js/main.492a2e47.js.map",
+    "main.53666fd8.js.map": "/AsusStoreWebSite/static/js/main.53666fd8.js.map",
     "153.2c3dcf8c.chunk.css.map": "/AsusStoreWebSite/static/css/153.2c3dcf8c.chunk.css.map",
     "153.4bed086e.chunk.js.map": "/AsusStoreWebSite/static/js/153.4bed086e.chunk.js.map",
     "828.b1dcbaed.chunk.js.map": "/AsusStoreWebSite/static/js/828.b1dcbaed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ae03b34.css",
-    "static/js/main.492a2e47.js"
+    "static/js/main.53666fd8.js"
   ]
 }
